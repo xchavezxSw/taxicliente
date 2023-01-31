@@ -5,7 +5,7 @@
  */
 
 (function (exports) {
-    var remoteHost = 'http://localhost:6868'; //'http://localhost:6789';
+    var remoteHost = 'http://conexion.techne.net.ar:6868'; //'http://localhost:6789';
 
     var isMobile = {
         Android: function() {
