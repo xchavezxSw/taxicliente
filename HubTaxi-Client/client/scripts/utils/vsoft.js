@@ -25,7 +25,7 @@ angular.module('framework.vsoft', ['ui.vsoft', 'core.vsoft'])
 */
         defaultPass: 'defaultPassword',
         name: 'iTaxi',
-        apiHost: 'http://conexion.techne.net.ar:6868', // taxigo.vn:9697
+        apiHost: 'http://181.13.244.36:6868', // taxigo.vn:9697
         mediaHost: 'http://vsoft.vn:1235'
     });
 
