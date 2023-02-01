@@ -7,7 +7,7 @@ angular.module('itaxiApp')
             deviceId: (window.device) ? device.uuid : 'vsoft.deverlopment12333',
             defaultPass: 'defaultPassword',
             name: 'Taxi Go',
-            apiHost: 'http://181.13.244.36:6868',  //'http://taxigo.vn:9989',
+            apiHost: 'https://181.13.244.36:6868',  //'http://taxigo.vn:9989',
             mediaHost: 'http://nodejs.vn:9697',
             isLogin: false
         };

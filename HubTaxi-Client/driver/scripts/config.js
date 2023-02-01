@@ -5,7 +5,7 @@
  */
 
 (function (exports) {
-    var remoteHost = 'http://181.13.244.36:6868'; //'http://localhost:6789';
+    var remoteHost = 'https://181.13.244.36:6868'; //'http://localhost:6789';
 
     var isMobile = {
         Android: function() {
